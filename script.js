@@ -1,7 +1,7 @@
 let c = 12;
 let d = 13; 
 
-let age = 26; // initialisation
+let age = 26; // initialisation 
 
 const name = 'Anuj';
 const Name = "kumar";
