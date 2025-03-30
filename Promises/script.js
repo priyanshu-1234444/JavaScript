@@ -10,7 +10,7 @@ const ticket = new Promise(function (resolve, reject) {
 ticket
     .then((data) => {
         console.log("wohoo", data);
-    })
+    }) 
     .catch((data) => {
         console.log("oh no", data);
     })
