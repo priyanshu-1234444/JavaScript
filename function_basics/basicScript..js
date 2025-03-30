@@ -21,6 +21,7 @@ function sumOfTwoNumbers(a, b) {
 const e = 5;
 const f = 14;
 sumOfTwoNumbers(e, f);
+// function Expression
 
 const square = function (num) {
     return num * num;
