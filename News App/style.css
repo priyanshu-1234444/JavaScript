@@ -98,3 +98,7 @@ nav {
 .search-button:hover {
     background-color: var(--accent-color-dark);
 }
+main {
+    padding-block: 20px;
+    margin-top: 80px;
+}
